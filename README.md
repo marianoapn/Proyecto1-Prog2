@@ -5,7 +5,7 @@
 ---
 
 ## 🎮 ¿Cómo Jugar?
-El objetivo del juego es lograr que **todo el tablero tenga el mismo color**. El tablero es una **matriz de colores** (rojo 🔴 y azul 🔵), donde cada celda tiene un **símbolo especial** que afecta a los colores al ser seleccionado.
+El objetivo del juego es lograr que **todo el tablero tenga el color rojo**. El tablero es una **matriz de colores** (rojo 🔴 y azul 🔵), donde cada celda tiene un **símbolo especial** que afecta a los colores al ser seleccionado.
 
 ### 🔢 Configuración Inicial
 Al iniciar el juego, se debe elegir una de las siguientes opciones:
