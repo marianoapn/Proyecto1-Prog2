@@ -40,4 +40,4 @@ El jugador selecciona la casilla a modificar **ingresando las coordenadas de la 
 
 Este proyecto fue desarrollado de forma individual como parte del **Proyecto 1 de la materia Programación 2 (2023)**.  
 
-Si tenés dudas o querés más detalles sobre el funcionamiento, podés revisar el código fuente incluido. 😊  
+Si tenés dudas o querés más detalles sobre el funcionamiento, podés revisar el código fuente incluido.  
